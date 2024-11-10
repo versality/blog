@@ -3,7 +3,7 @@
 SITE_URL="https://blog.pertsovsky.com"
 POST_DIR="posts"
 ASSETS_DIR="assets"
-OUTPUT_DIR="public"
+OUTPUT_DIR="docs"
 LAYOUT_HTML=$(<layout.html)
 INDEX_HTML=$(<index.html)
 
