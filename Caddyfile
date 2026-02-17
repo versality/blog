@@ -1,0 +1,4 @@
+blog.pertsovsky.com {
+  root * /srv
+  file_server
+}
